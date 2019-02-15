@@ -1,3 +1,0 @@
-#!/bin/sh
-
-git ls-files -m | xargs yarn test --findRelatedTests

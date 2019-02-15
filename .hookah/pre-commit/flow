@@ -1,3 +1,0 @@
-#!/bin/sh
-
-git ls-files -m | grep .js | xargs yarn run flow focus-check
